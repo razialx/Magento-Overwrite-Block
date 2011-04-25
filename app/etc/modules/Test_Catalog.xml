@@ -1,8 +1,8 @@
 <config>
     <modules>
-        <test_Catalog>
+        <Test_Catalog>
             <active>true</active>
             <codePool>local</codePool>
-        </test_Catalog>
+        </Test_Catalog>
     </modules>
 </config>

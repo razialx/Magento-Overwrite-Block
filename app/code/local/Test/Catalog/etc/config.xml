@@ -1,13 +1,13 @@
 <config>
     <modules>
-        <test_Catalog>
+        <Test_Catalog>
             <version>1.0.0.0.0</version>
-        </test_Catalog>
+        </Test_Catalog>
     </modules>
     <blocks>
         <catalog>
             <rewrite>
-                <product_view_media>test_Catalog_Block_Product_View_Media</product_view_media>
+                <product_view_media>Test_Catalog_Block_Product_View_Media</product_view_media>
             </rewrite>
         </catalog>
 
